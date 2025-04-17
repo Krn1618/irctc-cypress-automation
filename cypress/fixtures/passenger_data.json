@@ -13,14 +13,14 @@
       "NAME": "Mahesh Singh",
       "AGE": 30,
       "GENDER": "Male",
-      "SEAT": "Lower",
+      "SEAT": "Side Upper",
       "FOOD": "No Food"
     },
     {
       "NAME": "Manju Khatri",
       "AGE": 20,
       "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Side Lower",
       "FOOD": "No Food"
     }
   ],
